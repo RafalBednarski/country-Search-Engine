@@ -6,7 +6,7 @@ If U wan't use live demo, just click the link at the top of the page next to the
 How to use:
 
 Type the name of the country in the search field>
-Press yellow button>
+Press button>
 You can also type only the first letter or few letters of particular country.
 
 Used:
